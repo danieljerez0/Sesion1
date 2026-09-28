@@ -6,6 +6,8 @@ public class Sesion1 {
 		System.out.println("Operacion 1");
 
 		System.out.println("Operacion 2");
+		
+		System.out.println("Operacion 3");
 	}
 
 }
