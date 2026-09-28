@@ -12,6 +12,8 @@ public class Sesion1 {
 		System.out.println("Operacion 4");
 		
 		System.out.println("Operacion 6");
+		
+		System.out.println("Operacion 7");
 
 	}
 
