@@ -5,6 +5,7 @@ public class Sesion1 {
 		// TODO Auto-generated method stub
 		System.out.println("Operacion 1");
 
+		System.out.println("Operacion 2");
 	}
 
 }
